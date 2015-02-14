@@ -1,0 +1,16 @@
+[
+{
+  "modid": "expansion",
+  "name": "Expansion: Overhaul",
+  "description": "Change of vanila works..",
+  "version": "Alpha 0.0.5",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vladan899"],
+  "credits": "The Forge and FML guys and myself",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

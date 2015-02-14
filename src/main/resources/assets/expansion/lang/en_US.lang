@@ -1,0 +1,35 @@
+itemGroup.Expansion=Expansion: Overhaul
+
+
+tile.CopperOre.name=Copper Ore
+tile.TinOre.name=Tin Ore
+tile.UraniumOre.name=Uranium Ore
+tile.SilverOre.name=Silver Ore
+
+tile.BlockCopper.name=Copper Block
+tile.BlockTin.name=Tin Block
+tile.BlockSilver.name=Silver Block
+tile.BlockUranium.name=Uranium Block
+
+item.CopperIngot.name=Copper Ingot
+item.TinIngot.name=Tin Ingot
+item.SilverIngot.name=Silver Ingot
+item.UraniumIngot.name=Uranium Ingot
+item.BronzeIngot.name=Bronze Ingot
+
+item.BronzeDust.name=Bronze Dust
+item.CopperDust.name=CopperDust
+item.IronDust.name=Iron Dust
+item.GoldDust.name=Gold Dust
+item.TinDust.name=Tin Dust
+item.SilverDust.name=Silver Dust
+
+item.PaperStack.name=PaperStack
+item.TNTSticks.name=TNT Stick
+item.BlankTNTStick.name=Blank TNT Stick
+
+item.IronSaw.name=Iron HandSaw
+item.IronKitchenKnife.name=Kitchen Knife
+
+item.SliceBread.name=Bread Slice
+
